@@ -19,6 +19,12 @@ The tutorial covers the basics of SQL and is ideal for beginners. Throughout the
 - Using GROUP BY and ORDER BY
 - Difference between HAVING and WHERE
 - Limit and Aliasing
+  ## Intermediate SQL
+- Joins ( Full, Left, Right, Inner and Self Joins)
+- Unions (Distinct and All)
+- String Functions
+- Case Statements and Subqueries
+- Window Functions
 
 More topics will be added as I progress!
 
