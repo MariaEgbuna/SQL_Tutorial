@@ -11,7 +11,7 @@ The tutorial covers the basics of SQL and is ideal for beginners. Throughout the
 - **Git** & **GitHub** – for version control
 - **YouTube** – [AlexTheAnalyst SQL Tutorial](https://m.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)
 
-## 📝 Topics Covered So Far
+## 📝 Topics Covered
 
 ### Beginner SQL
 - Creating databases and tables
