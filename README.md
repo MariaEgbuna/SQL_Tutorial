@@ -34,9 +34,6 @@ The tutorial covers the basics of SQL and is ideal for beginners. Throughout the
 - Stored Procedures
 - Triggers and Events
 
-## Project:
-
-
 ## 🙌 Credits
 
 Big thanks to Alex Freberg (aka AlexTheAnalyst) for the amazing free content for aspiring data analysts!
