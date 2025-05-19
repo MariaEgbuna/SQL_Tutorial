@@ -13,7 +13,7 @@ The tutorial covers the basics of SQL and is ideal for beginners. Throughout the
 
 ## 📝 Topics Covered So Far
 
-  ### Beginner SQL
+### Beginner SQL
 - Creating databases and tables
 - Basic SELECT statements
 - Filtering with WHERE
@@ -21,14 +21,14 @@ The tutorial covers the basics of SQL and is ideal for beginners. Throughout the
 - Difference between HAVING and WHERE
 - Limit and Aliasing
   
-  ### Intermediate SQL
+### Intermediate SQL
 - Joins ( Full, Left, Right, Inner and Self Joins)
 - Unions (Distinct and All)
 - String Functions
 - Case Statements and Subqueries
 - Window Functions
   
-  ### Advanced SQL
+### Advanced SQL
 - CTEs
 - Temp Tables
 - Stored Procedures
